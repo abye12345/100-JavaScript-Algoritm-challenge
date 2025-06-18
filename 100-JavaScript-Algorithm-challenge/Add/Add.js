@@ -5,4 +5,3 @@ function Add(a, b) {
 }
 let sum = Add(5, 9);
 console.log(sum);
-//shs
